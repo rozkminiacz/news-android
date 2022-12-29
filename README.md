@@ -1,7 +1,8 @@
 # News App
 
 ## UI
-![](app.gif)
+![](1.png)
+![](2.png)
 
 ## API
 
