@@ -55,9 +55,6 @@ android {
       buildConfigField "Boolean", "ENABLE_NETWORK_LOGGING", "false"
       buildConfigField "Boolean", "ENABLE_LOGGING", "true"
 
-      buildConfigField "String", "BASE_URL", "https://newsapi.org/"
-      buildConfigField "String", "API_KEY", "74cfdb27eb44401ba477ce5134cfd4c2"
-
       buildConfigField "String", "BASE_URL", "\"https://newsapi.org/\""
       buildConfigField "String", "API_KEY", "\"74cfdb27eb44401ba477ce5134cfd4c2\""
     }

@@ -1,9 +1,7 @@
 # flow.yaml
 
-appId: tech.michalik.news
+appId: tech.michalik.news.debug
 ---
 - launchApp
 - tapOn: "Put your search phrase here"
 - inputText: "Facebook"
-- tapOn:
-    point: "24%,24%"
